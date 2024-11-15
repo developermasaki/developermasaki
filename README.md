@@ -17,8 +17,8 @@
 <br>
 
 ## 🏃‍♀️ Activities
-<div align="left"> 
-  <!--START_SECTION:lapras-card-->
+<!--START_SECTION:lapras-card-->
   <!--END_SECTION:lapras-card-->
+<div align="left"> 
 </div>
 
