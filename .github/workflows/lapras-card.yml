@@ -12,6 +12,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: kawamataryo/lapras-card-readme@v1.3.0
+        env:                         
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_ACCESS_TOKEN }}
         with:
           SHARE_ID: developermasaki
           ICON_FIRST: "#212121"
