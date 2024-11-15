@@ -18,7 +18,8 @@
 
 ## 🏃‍♀️ Activities
 <!--START_SECTION:lapras-card-->
-  <!--END_SECTION:lapras-card-->
+<a href="https://lapras.com/public/developermasaki" target="_blank" rel="noopener noreferrer">
+<!--END_SECTION:lapras-card-->
 <div align="left"> 
 </div>
 
