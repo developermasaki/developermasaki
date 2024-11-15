@@ -13,3 +13,4 @@ jobs:
       - uses: kawamataryo/lapras-card-readme@v1.2.1
         with:
           SHARE_ID: "developermasaki"
+          node-version: "20"
