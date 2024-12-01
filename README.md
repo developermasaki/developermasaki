@@ -18,7 +18,7 @@
 
 ## 🏃‍♀️ Activities
 <!--START_SECTION:lapras-card-->
-<p ><a href="https://lapras.com/public/developermasaki" target="_blank" rel="noopener noreferrer"><img alt="developermasakiのLAPRASでのスコアは次の通りです: エンジニアリング: 2.66 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.31 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=2.66&b=2.85&i=2.31&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="40%" ></a></p>
+<p ><a href="https://lapras.com/public/developermasaki" target="_blank" rel="noopener noreferrer"><img alt="developermasakiのLAPRASでのスコアは次の通りです: エンジニアリング: 2.67 / 5.0, ビジネス: 2.85 / 5.0, インフルエンス: 2.31 / 5.0." src="https://lapras-card-generator.vercel.app/api/svg?e=2.67&b=2.85&i=2.31&b1=%23232323&b2=%236d6d6d&i1=%23212121&i2=%23818181&l=ja" width="40%" ></a></p>
 <!--END_SECTION:lapras-card-->
 <div align="left"> 
 </div>
